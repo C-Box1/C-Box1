@@ -5,8 +5,8 @@ I'm a passionate data science student at Lebanese University and a level 2 stude
 
 🚀 Currently Working On
 POS System – Collaborating with fellow students to build a point-of-sale system. This project helps me apply full-stack development skills and work effectively in a team environment.
-🛠️ Tech Stack
 
+🛠️ Tech Stack
 Languages: Python, Java, JavaScript
 Web Development: HTML, CSS
 Databases: SQL
