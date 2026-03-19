@@ -11,7 +11,7 @@ POS System – Collaborating with fellow students to build a point-of-sale syste
 
 	Languages: Python, Java, JavaScript 
 	Web Development: HTML, CSS 
-	Databases: SQL 
+	Databases: SQL Server
 	Focus Areas: Data Science, AI, Full-Stack Development
 
 📬 Get in Touch
