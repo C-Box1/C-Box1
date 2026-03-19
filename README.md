@@ -9,10 +9,10 @@ POS System – Collaborating with fellow students to build a point-of-sale syste
 
 🛠️ Tech Stack
 
-Languages: Python, Java, JavaScript
-Web Development: HTML, CSS
-Databases: SQL
-Focus Areas: Data Science, AI, Full-Stack Development
+	Languages: Python, Java, JavaScript 
+	Web Development: HTML, CSS 
+	Databases: SQL 
+	Focus Areas: Data Science, AI, Full-Stack Development
 
 📬 Get in Touch
 
