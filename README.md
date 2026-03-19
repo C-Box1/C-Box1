@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there, I'm Charbel Sahyoun 👋
+About Me
+I'm a passionate data science student at Lebanese University and a level 2 student at 42 School. I'm on a journey to become an AI engineer, combining my interests in data analysis, machine learning, and software development.
+🚀 Currently Working On
+POS System – Collaborating with fellow students to build a point-of-sale system. This project helps me apply full-stack development skills and work effectively in a team environment.
+🛠️ Tech Stack
 
-<!--
-**C-Box1/C-Box1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages: Python, Java, JavaScript
+Web Development: HTML, CSS
+Databases: SQL
+Focus Areas: Data Science, AI, Full-Stack Development
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Get in Touch
+Feel free to reach out! I'm always open to collaborating on projects or discussing AI and tech.
+Email: your.email@example.com
